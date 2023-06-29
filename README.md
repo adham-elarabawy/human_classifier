@@ -1,5 +1,5 @@
-# human_classifier
-Inference-optimized human classifier for fashion domain.
+# lightprobe
+Inference-optimized lightweight linear probe built on CLIP features.
 
 ## Experiment Results
 ### CLIP Similarity Scores (n=2000, ViT-B-32)
