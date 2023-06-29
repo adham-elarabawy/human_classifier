@@ -1,0 +1,11 @@
+accelerate>=0.16.0
+torchvision
+transformers>=4.25.1
+ftfy
+tensorboard
+datasets
+wandb
+diffusers==0.17.1	
+jupyter
+sklearn
+clip
