@@ -1,5 +1,5 @@
 # lightprobe
-Inference-optimized lightweight linear probe built on CLIP features.
+Inference-optimized lightweight linear probe built on CLIP.
 
 ## Experiment Results
 ### CLIP Similarity Scores (n=2000, ViT-B-32)
